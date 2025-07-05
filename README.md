@@ -209,3 +209,9 @@ This flight simulator is created for educational and entertainment purposes. Air
 **Enjoy your flight! ✈️**
 
 *Experience the thrill of realistic flight simulation from one of the world's busiest airports - Dubai International (DXB).* 
+
+## NOTE: ⚠️
+
+This project is now discontinued, do not ask the host for fixes or any help. Thank you. 
+
+*Enjoy flying folks! ✈️🌍*
